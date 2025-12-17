@@ -25,7 +25,7 @@ Este projeto foi desenvolvido com o objetivo de explorar a comunicação bidirec
 
 1. **Clone o repositório**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/SEU-REPO.git](https://github.com/SEU-USUARIO/SEU-REPO.git)
+   git clone https://github.com/eduardocarvalho21/Chat_node.js.git
    
 2. **Instale as dependências**
    ```bash
