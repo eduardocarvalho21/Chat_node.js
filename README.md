@@ -26,3 +26,15 @@ Este projeto foi desenvolvido com o objetivo de explorar a comunicação bidirec
 1. **Clone o repositório**
    ```bash
    git clone [https://github.com/SEU-USUARIO/SEU-REPO.git](https://github.com/SEU-USUARIO/SEU-REPO.git)
+   
+2. **Instale as dependências**
+   ```bash
+   npm install
+
+3. **Rode o servidor**
+   ```bash
+   node server.js
+   
+**Acesse** Abra **http://localhost:3000** em duas abas diferentes para testar.
+
+Desenvolvido por **Eduardo Pereira de Carvalho**
